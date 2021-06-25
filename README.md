@@ -1,1 +1,1 @@
-# BridgeLabz_AlgorithimicPrograms
+# BridgeLabz_AlgorithmicPrograms
